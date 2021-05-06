@@ -1,6 +1,6 @@
 {
   "name": "passport-sf-signed-post-request",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "passport implementation of salesforce signed post request authentication for use in salesforce canvas apps",
   "main": "./lib",
   "scripts": {
