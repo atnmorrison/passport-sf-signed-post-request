@@ -10,7 +10,7 @@ Once you have your salesforce instance you can create canvas app by going to **S
 
 In the canvas app:
 
-1. make sure that Oauth Settings and enabled for the connected app [oauth settings](https://github.com/atnmorrison/passport-sf-signed-post-request/blob/main/images/oauth_settings.png)
-2. make sure Canvas App Settings are enabled and select Signed Request (POST) as the Access Method [canvas settings](https://github.com/atnmorrison/passport-sf-signed-post-request/blob/main/images/canvas_settings.png)
+1. make sure that Oauth Settings and enabled for the connected app [oauth settings](https://github.com/atnmorrison/passport-sf-signed-post-request/blob/main/images/oauth_settings.png?raw=true)
+2. make sure Canvas App Settings are enabled and select Signed Request (POST) as the Access Method [canvas settings](https://github.com/atnmorrison/passport-sf-signed-post-request/blob/main/images/canvas_settings.png?raw=true)
 3. save the connected app then click the **Manage** button. Ensure that in OAuth Policies "Permitted Users" is set to "Admin approved users are pre-authorized" **NOTE that if your org is setup with restricted apis you may need to toggle this on and off even if it already shows "Admin approved users are pre-authorized**
 
